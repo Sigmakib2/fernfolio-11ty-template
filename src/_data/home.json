@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with"
+  "title": "eSakib",
+  "image": "/src/assets/img/esakib.jpg",
+  "image_alt": "a cube is bing program",
+  "body": "Welcome to eSakib, your go-to destination for high-quality content on programming and computer science. Our expert writers cover a wide range of topics, from beginner-friendly tutorials to in-depth analysis of the latest trends in the industry. Whether you're a seasoned developer or just starting out, eSakib has something for everyone. Stay up-to-date with the latest news, tips, and tricks in the world of programming and computer science with eSakib."
 }
